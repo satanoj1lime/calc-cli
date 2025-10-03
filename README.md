@@ -25,6 +25,8 @@
 ## Todo
 
 - [ ] Clean the code.
+- [ ] Fix division code.
+- [ ] Put the code in a loop, like a real program works.
 
 ## Checklist para Contribuições 
 
