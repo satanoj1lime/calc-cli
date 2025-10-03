@@ -18,9 +18,9 @@ int calc(){
 	int a, b;
 	float c, d;
 	
-	printf("Hello Sir, what is the operation today?\t press (X) to exit the program.\n");
+	printf("Hello Sir, what is the operation today?\t\t press (X) to exit the program.\n");
 
-	printf("\nOperation: (e.g. + , * , - , /)");
+	printf("\nOperation (e.g. + , * , - , /): ");
 	scanf(" %c", &opt);
 
 			switch (opt) {
